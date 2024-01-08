@@ -28,6 +28,8 @@ mern for data visualization
 
 **Start the IoT Platform:**
 npm start
+
+
 **Run Hardware Simulator:**
 
 node simulator.js
