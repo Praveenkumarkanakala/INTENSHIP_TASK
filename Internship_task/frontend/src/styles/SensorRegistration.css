@@ -1,0 +1,27 @@
+/* SensorRegistration.css */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.paper {
+  padding: 20px;
+  margin-top: 20px;
+  width: 300px;
+}
+
+.title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.text-field {
+  margin: 10px 0;
+}
+
+.button {
+  margin-top: 10px;
+}
