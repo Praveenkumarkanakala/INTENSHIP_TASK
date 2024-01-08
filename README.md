@@ -27,6 +27,10 @@ npm start
 node simulator.js
  # Start Data Visualization:
  # screenshots
-![WhatsApp Image 2023-12-11 at 18 35 39_1f22a2b7](https://github.com/Praveenkumarkanakala/INTENSHIP_TASK/assets/114328662/f863858c-e169-4dfc-ac8b-d2d1876b4f5b)
+![WhatsApp Image 2024-01-08 at 09 16 20_5592f39c](https://github.com/Praveenkumarkanakala/INTENSHIP_TASK/assets/114328662/42f2f8ae-1e08-43bb-a53a-de42b730ebfe)
+![WhatsApp Image 2024-01-08 at 09 17 08_899a3a4b](https://github.com/Praveenkumarkanakala/INTENSHIP_TASK/assets/114328662/e69c32e9-d1f7-48e7-960b-cbab174bc20d)
+![WhatsApp Image 2024-01-08 at 09 16 44_95590f3b](https://github.com/Praveenkumarkanakala/INTENSHIP_TASK/assets/114328662/7174e93d-d7a0-4102-9ba2-d22e5d3b71f8)
+
+
 
 
