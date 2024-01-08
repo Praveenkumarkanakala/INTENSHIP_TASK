@@ -31,6 +31,14 @@ node simulator.js
 ![WhatsApp Image 2024-01-08 at 09 17 08_899a3a4b](https://github.com/Praveenkumarkanakala/INTENSHIP_TASK/assets/114328662/e69c32e9-d1f7-48e7-960b-cbab174bc20d)
 ![WhatsApp Image 2024-01-08 at 09 16 44_95590f3b](https://github.com/Praveenkumarkanakala/INTENSHIP_TASK/assets/114328662/7174e93d-d7a0-4102-9ba2-d22e5d3b71f8)
 
+# wroking
+it will store the data or name of senors and shows in the output when we add or remove the sensor it will change in database 
+#mangodb data base is connected to store the data and this project had two specifications 
+1.REGISTARTION OF SENSORS
+2.UPLOADING THE FILES WHICH ARE REGISTRED WITH NAME
+ by registartion we can add the iot devices and their details
+ and we can upload the files used for the senors 
+
 
 
 
